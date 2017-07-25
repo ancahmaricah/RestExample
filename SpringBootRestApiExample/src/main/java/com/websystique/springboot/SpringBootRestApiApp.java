@@ -9,5 +9,6 @@ public class SpringBootRestApiApp {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootRestApiApp.class, args);
+		System.out.println("test 123");
 	}
 }
